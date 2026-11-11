@@ -1,0 +1,8 @@
+# dsh-token-ledger bundle patch: inserts one dual-face row into the profile
+# roster. The node half (exports ".") runs in the Host process, keeps the
+# machine-wide lifetime token ledger and serves `/token-ledger/state`; the
+# browser half (exports "./client", declared by `dsh.client` in package.json)
+# renders the header pill.
+- insert:
+    - id: token-ledger
+      name: dsh-token-ledger

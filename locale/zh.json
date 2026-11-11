@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Token 累计",
+    "description": "在对话页顶栏常驻显示本机 DSH 所有会话的累计 Token 消耗，数字随使用持续增长。"
+  }
+}

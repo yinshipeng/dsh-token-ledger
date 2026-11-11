@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="Token ledger">
+  <rect x="1" y="1" width="30" height="30" rx="8" fill="#1f6feb"/>
+  <ellipse cx="16" cy="10.5" rx="8" ry="3.2" fill="none" stroke="#ffffff" stroke-width="1.8"/>
+  <path d="M8 10.5v5.2c0 1.8 3.6 3.2 8 3.2s8-1.4 8-3.2v-5.2" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M8 15.7v5.2c0 1.8 3.6 3.2 8 3.2s8-1.4 8-3.2v-5.2" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" opacity="0.72"/>
+  <circle cx="22.6" cy="9.2" r="2.1" fill="#f0b429"/>
+</svg>

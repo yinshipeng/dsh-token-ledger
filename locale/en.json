@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Token ledger",
+    "description": "Shows this machine's lifetime DSH token total in the conversation header, summed across every session."
+  }
+}
